@@ -3,8 +3,9 @@ body {
 }
 
 h1 {
-    color: red;
+    color: purple;
     text-align: center;
+    font-size: 4em;
 }
 
 p {
