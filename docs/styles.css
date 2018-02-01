@@ -1,11 +1,13 @@
 body {
     background-color: black;
+    background-image: url(blin.jpg); 
+    background-size: 100%;
 }
 
 h1 {
-    color: black;
+    color: red;
     text-align: center;
-    font-size: 4em;
+    font-size: 9em;
 }
 
 p {
